@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paginator-react/static/css/main.48a273d6.css",
+    "main.js": "/paginator-react/static/js/main.683b593a.js",
+    "static/js/787.1956340f.chunk.js": "/paginator-react/static/js/787.1956340f.chunk.js",
+    "index.html": "/paginator-react/index.html",
+    "main.48a273d6.css.map": "/paginator-react/static/css/main.48a273d6.css.map",
+    "main.683b593a.js.map": "/paginator-react/static/js/main.683b593a.js.map",
+    "787.1956340f.chunk.js.map": "/paginator-react/static/js/787.1956340f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a273d6.css",
+    "static/js/main.683b593a.js"
+  ]
+}
